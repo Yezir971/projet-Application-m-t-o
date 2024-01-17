@@ -80,10 +80,10 @@ recherche.addEventListener("click", function(){
                 imageMeteo.src = "imageMeteo/animated/thunder.svg";
                 break;
             case '13d':
-                imageMeteo.src = "imageMeteo/animated/snow-6.svg";
+                imageMeteo.src = "imageMeteo/animated/snowy-6.svg";
                 break;
             case '13n':
-                imageMeteo.src = "imageMeteo/animated/snow-6.svg";
+                imageMeteo.src = "imageMeteo/animated/snowy-6.svg";
                 break;
             case '50d':
                 imageMeteo.src = "imageMeteo/animated/foog.png";
